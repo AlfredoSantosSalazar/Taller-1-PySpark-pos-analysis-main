@@ -1,9 +1,11 @@
+Big Data Analytics, Ingeniería de Sistemas
+
 Delivery of workshop 1 on the installation of the work environment and creation of an algorithm with PySpark, NLTK and Word Tokenize.
 
 Alfredo Santos Salazar - asantossal@unbosque.edu.co 
 
 Workshop delivery video tutorial 
-
+https://youtu.be/_39zfon7jaE
 
 PASO 1:
 Download and install Anaconda 
