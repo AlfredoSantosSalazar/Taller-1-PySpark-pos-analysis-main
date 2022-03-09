@@ -1,4 +1,4 @@
-Big Data Analytics, Ingeniería de Sistemas
+### Big Data Analytics, Ingeniería de Sistemas
 
 Delivery of workshop 1 on the installation of the work environment and creation of an algorithm with PySpark, NLTK and Word Tokenize.
 
@@ -47,7 +47,8 @@ PYSPARK_DRIVER_PYTHON_OPTS
 
 Modify Path environment variable
 
-%HADOOP_HOME%\bin\n/n
+%HADOOP_HOME%\bin
+
 %SPARK_HOME%\bin
 
 ![Captura de pantalla (208)](https://user-images.githubusercontent.com/70605764/157361321-97d0d518-3cdd-4115-a68b-a7a56e8978c0.png)
