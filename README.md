@@ -1,4 +1,4 @@
-#### Big Data Analytics, Ingeniería de Sistemas
+Big Data Analytics, Ingeniería de Sistemas
 
 Delivery of workshop 1 on the installation of the work environment and creation of an algorithm with PySpark, NLTK and Word Tokenize.
 
