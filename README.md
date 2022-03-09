@@ -26,17 +26,29 @@ Download and uncompress Spark
 
 Step 4:
 Download winutils.exe and hadoop.dll files from here
+
 Find the folder containing files according to Hadoop version
+
 Recommended folder to locate them: C:\Hadoop\bin
+
 Create all of these environment variables
+
 JAVA_HOME
+
 HADOOP_HOME
+
 SPARK_HOME
+
 PYSPARK_PYTHON
+
 PYSPARK_DRIVER_PYTHON
+
 PYSPARK_DRIVER_PYTHON_OPTS
+
 Modify Path environment variable
+
 %HADOOP_HOME%\bin
+
 %SPARK_HOME%\bin
 
 ![Captura de pantalla (208)](https://user-images.githubusercontent.com/70605764/157361321-97d0d518-3cdd-4115-a68b-a7a56e8978c0.png)
