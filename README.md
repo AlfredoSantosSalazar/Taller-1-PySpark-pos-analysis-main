@@ -5,9 +5,9 @@ Delivery of workshop 1 on the installation of the work environment and creation 
 Alfredo Santos Salazar - asantossal@unbosque.edu.co 
 
 Workshop delivery video tutorial 
-https://youtu.be/_39zfon7jaE
+https://youtu.be/7ZwRiHpD65Q
 
-[![Alt text](https://img.youtube.com/vi/_39zfon7jaE/0.jpg)](https://www.youtube.com/watch?v=_39zfon7jaE)
+[![Alt text](https://img.youtube.com/vi/7ZwRiHpD65Q/0.jpg)](https://www.youtube.com/watch?v=7ZwRiHpD65Q)
 
 Step 1:
 Download and install Anaconda 
