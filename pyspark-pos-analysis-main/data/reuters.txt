@@ -1,0 +1,87 @@
+Banks beware, Amazon and Walmart are cracking the code for finance
+
+LONDON, Sept 17 (Reuters) - Anyone can be a banker these days, you just need the right code.
+
+Global brands from Mercedes and Amazon (AMZN.O) to IKEA and Walmart (WMT.N) are cutting out the traditional financial middleman and plugging in software from tech startups to offer customers everything from banking and credit to insurance.
+
+For established financial institutions, the warning signs are flashing.
+
+So-called embedded finance - a fancy term for companies integrating software to offer financial services - means Amazon can let customers "buy now pay later" when they check out and Mercedes drivers can get their cars to pay for their fuel.
+
+To be sure, banks are still behind most of the transactions but investors and analysts say the risk for traditional lenders is that they will get pushed further away from the front end of the finance chain.
+
+And that means they'll be further away from the mountains of data others are hoovering up about the preferences and behaviours of their customers - data that could be crucial in giving them an edge over banks in financial services.
+
+"Embedded financial services takes the cross-sell concept to new heights. It's predicated on a deep software-based ongoing data relationship with the consumer and business," said Matt Harris, a partner at investor Bain Capital Ventures.
+
+"That is why this revolution is so important," he said. "It means that all the good risk is going to go to these embedded companies that know so much about their customers and what is left over will go to banks and insurance companies."
+
+WHERE DO YOU WANT TO PLAY?
+
+For now, many areas of embedded finance are barely denting the dominance of banks and even though some upstarts have licences to offer regulated services such as lending, they lack the scale and deep funding pools of the biggest banks.
+
+But if financial technology firms, or fintechs, can match their success in grabbing a chunk of digital payments from banks - and boosting their valuations in the process - lenders may have to respond, analysts say.
+
+Stripe, for example, the payments platform behind many sites with clients including Amazon and Alphabet's (GOOGL.O) Google, was valued at $95 billion in March.
+
+Accenture estimated in 2019 that new entrants to the payments market had amassed 8% of revenues globally - and that share has risen over the past year as the pandemic boosted digital payments and hit traditional payments, Alan McIntyre, senior banking industry director at Accenture, said.
+
+Now the focus is turning to lending, as well as complete off-the-shelf digital lenders with a variety of products businesses can pick and choose to embed in their processes.
+
+"The vast majority of consumer centric companies will be able to launch financial products that will allow them to significantly improve their customer experience," said Luca Bocchio, partner at venture capital firm Accel.
+
+"That is why we feel excited about this space."
+
+So far this year, investors have poured $4.25 billion into embedded finance startups, almost three times the amount in 2020, data provided to Reuters by PitchBook shows.
+
+Leading the way is Swedish buy now pay later (BNPL) firm Klarna which raised $1.9 billion.
+
+DriveWealth, which sells technology allowing companies to offer fractional share trading, attracted $459 million while investors put $229 million into Solarisbank, a licensed German digital bank which offers an array of banking services software.
+
+Shares in Affirm (AFRM.O), meanwhile, surged last month when it teamed up with Amazon to offer BNPL products while rival U.S. fintech Square (SQ.N) said last month it was buying Australian BNPL firm Afterpay (APT.AX) for $29 billion.
+
+Square is now worth $113 billion, more than Europe's most valuable bank, HSBC (HSBA.L), on $105 billion.
+
+"Big banks and insurers will lose out if they don't act quickly and work out where to play in this market," said Simon Torrance, founder of Embedded Finance & Super App Strategies.
+
+YOU NEED A LOAN!
+
+Several other retailers have announced plans this year to expand in financial services.
+
+Walmart launched a fintech startup with investment firm Ribbit Capital in January to develop financial products for its employees and customers while IKEA took a minority stake in BNPL firm Jifiti last month.
+
+Automakers such as Volkswagen's (VOWG_p.DE) Audi and Tata's (TAMO.NS) Jaguar Land Rover have experimented with embedding payment technology in their vehicles to take the hassle out of paying, besides Daimler's (DAIGn.DE) Mercedes.
+
+"Customers expect services, including financial services, to be directly integrated at the point of consumption, and to be convenient, digital, and immediately accessible," said Roland Folz, chief executive of Solarisbank which provides banking services to more than 50 companies including Samsung.
+
+It's not just end consumers being targeted by embedded finance startups. Businesses themselves are being tapped on the shoulder as their digital data is crunched by fintechs such as Canada's Shopify (SHOP.TO).
+
+It provides software for merchants and its Shopify Capital division also offers cash advances, based on an analysis of more than 70 million data points across its platform.
+
+"No merchant comes to us and says, I would like a loan. We go to merchants and say, we think it's time for funding for you," said Kaz Nejatian, vice president, product, merchant services at Shopify.
+
+"We don't ask for business plans, we don't ask for tax statements, we don't ask for income statements, and we don't ask for personal guarantees. Not because we are benevolent but because we think those are bad signals into the odds of success on the internet," he said.
+
+A Shopify spokesperson said funding goes from $200 to $2 million. It has provided $2.3 billion in cumulative capital advances and is valued at $184 billion, well above Royal Bank of Canada (RY.TO), the country's biggest traditional lender.
+
+CONNECTED FUTURE?
+
+Shopify's lending business is, however, still dwarfed by the big banks. JPMorgan Chase & Co (JPM.N), for example, had a consumer and community loan book worth $435 billion at the end of June.
+
+Major advances into finance by companies from other sectors could also be limited by regulators.
+
+Officials from the Bank for International Settlements, a consortium of central banks and financial regulators, warned watchdogs last month to get to grips with the growing influence of technology firms in finance. read more
+
+Bain's Harris said financial regulators were taking the approach that because they don't know how to regulate tech firms they are insisting there's a bank behind every transaction - but that did not mean banks would prevent fintechs encroaching.
+
+"They are right that the banks will always have a role but it's not a very remunerative role and it involves very little ownership of the customer," he said.
+
+Forrester analyst Jacob Morgan said banks had to decide where they want to be in the finance chain.
+
+"Can they afford to fight for customer primacy, or do they actually see a more profitable route to market to become the rails that other people run on top of?" he said. "Some banks will choose to do both."
+
+And some are already fighting back.
+
+Citigroup (C.N) has teamed up with Google on bank accounts, Goldman Sachs (GS.N) is providing credit cards for Apple (AAPL.O) and JPMorgan is buying 75% of Volkswagen's payments business and plans to expand to other industries. read more 06:00:00
+
+"Connectivity between different systems is the future," said Shahrokh Moinian, head of wholesale payments, EMEA, at JPMorgan. "We want to be the leader."
