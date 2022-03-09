@@ -1,3 +1,5 @@
+Delivery of Workshop 1 on the installation of the work environment and creation of an algorithm with PySpark, NLTK and Word Tokenize.
+
 Alfredo Santos Salazar - asantossal@unbosque.edu.co 
 
 Workshop delivery video tutorial 
