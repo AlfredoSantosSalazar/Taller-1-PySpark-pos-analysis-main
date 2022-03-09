@@ -6,7 +6,8 @@ Alfredo Santos Salazar - asantossal@unbosque.edu.co
 
 Workshop delivery video tutorial 
 https://youtu.be/_39zfon7jaE
-[![Alt text](https://img.youtube.com/vi/39zfon7jaE/0.jpg)](https://www.youtube.com/watch?v=39zfon7jaE)
+
+[![Alt text](https://img.youtube.com/vi/_39zfon7jaE/0.jpg)](https://www.youtube.com/watch?v=_39zfon7jaE)
 
 PASO 1:
 Download and install Anaconda 
