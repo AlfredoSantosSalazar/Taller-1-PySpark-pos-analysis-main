@@ -1,4 +1,4 @@
-Big Data Analytics, Ingeniería de Sistemas
+#### Big Data Analytics, Ingeniería de Sistemas
 
 Delivery of workshop 1 on the installation of the work environment and creation of an algorithm with PySpark, NLTK and Word Tokenize.
 
@@ -26,17 +26,29 @@ Download and uncompress Spark
 
 Step 4:
 Download winutils.exe and hadoop.dll files from here
+
 Find the folder containing files according to Hadoop version
+
 Recommended folder to locate them: C:\Hadoop\bin
+
 Create all of these environment variables
+
 JAVA_HOME
+
 HADOOP_HOME
+
 SPARK_HOME
+
 PYSPARK_PYTHON
+
 PYSPARK_DRIVER_PYTHON
+
 PYSPARK_DRIVER_PYTHON_OPTS
+
 Modify Path environment variable
+
 %HADOOP_HOME%\bin
+
 %SPARK_HOME%\bin
 
 ![Captura de pantalla (208)](https://user-images.githubusercontent.com/70605764/157361321-97d0d518-3cdd-4115-a68b-a7a56e8978c0.png)
@@ -48,7 +60,14 @@ Modify Path environment variable
 Step 5:
 Workshop 1 Practice Screenshots
 
+![Captura de pantalla (2014](https://user-images.githubusercontent.com/70605764/157361584-553572d4-bf3e-4ee8-a35e-b599b1e89c2d.png)
+
 ![Captura de pantalla (2013](https://user-images.githubusercontent.com/70605764/157361574-3ee47641-f44c-48a6-91ab-e56206083741.png)
 
-![Captura de pantalla (2014](https://user-images.githubusercontent.com/70605764/157361584-553572d4-bf3e-4ee8-a35e-b599b1e89c2d.png)
+![157361584-553572d4-bf3e-4ee8-a35e-b599b1e89c2e](https://user-images.githubusercontent.com/70605764/158021350-34660ba6-1f79-4cff-bff9-773849efcf9f.png)
+
+
+
+
+
 
